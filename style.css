@@ -1,0 +1,22 @@
+style.css
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero {
+    height: 90vh;
+    background: url('https://via.placeholder.com/1200x800') no-repeat center center/cover;
+}
+
+.card {
+    border: none;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+footer {
+    font-size: 14px;
+}
